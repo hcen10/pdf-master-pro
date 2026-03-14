@@ -483,7 +483,8 @@ const kTools = [
   PdfTool(key: 'extract',   icon: '📋', color: Color(0xFFFDA085)),
   PdfTool(key: 'info',      icon: 'ℹ️', color: Color(0xFF84FAB0)),
   PdfTool(key: 'convert',   icon: '🔁', color: Color(0xFFF093FB), isPopular: true),
-  PdfTool(key: 'sign',      icon: '✍️', color: Color(0xFF43E97B), isNew: true),
+  PdfTool(key: 'create',    icon: '✏️', color: Color(0xFF43E97B), isNew: true),
+  PdfTool(key: 'sign',      icon: '✍️', color: Color(0xFF4FACFE)),
   PdfTool(key: 'ocr',       icon: '🔍', color: Color(0xFFFFD700)),
   PdfTool(key: 'organize',  icon: '📑', color: Color(0xFFFF9A9E)),
 ];

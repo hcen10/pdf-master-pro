@@ -11,6 +11,7 @@ dependencies:
     sdk: flutter
 
   # PDF processing
+  pdf: ^3.10.8
 
   # File picking & sharing
   file_picker: ^8.0.0
@@ -20,7 +21,6 @@ dependencies:
   # UI & State
   provider: ^6.1.2
   shared_preferences: ^2.2.3
-  flutter_animate: ^4.5.0
   percent_indicator: ^4.2.3
 
 dev_dependencies:
